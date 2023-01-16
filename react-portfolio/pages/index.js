@@ -17,7 +17,7 @@ export default function Home() {
 
       <main>
         <section className="bg-blue-700 min-h-screen">
-          <h1>hello</h1>
+          <h1>hello world</h1>
         </section>
       </main>
     </>
